@@ -25,9 +25,16 @@ hs_err_pid*
 
 # gradle folders
 *build/
-.gradle/
+*.gradle/
 
 # idea
-.idea/
+*.idea/
+
+# vscode
+*.vscode/
+
+# csharp
+*bin/
+*obj/
 
 
